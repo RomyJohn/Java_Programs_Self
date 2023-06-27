@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class Comparators {
+public class ComparatorClass {
 
     public static void main(String[] asd) {
         List<Student> list = new ArrayList<>();
