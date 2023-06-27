@@ -1,0 +1,9 @@
+org/example/controller/Comparators.class
+org/example/controller/StreamClass.class
+org/example/controller/CollectorsClass.class
+org/example/controller/LamdaClass.class
+org/example/controller/SerializableClass.class
+org/example/controller/CompareId.class
+org/example/entity/Student.class
+org/example/controller/OptionalClass.class
+org/example/controller/ComparableClass.class
